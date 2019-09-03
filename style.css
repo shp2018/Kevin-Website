@@ -1,11 +1,16 @@
 body {
 
-  background-color: powderblue;
+  background-color:rgb(86, 91, 92);
   text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
+  
 }
 h1 {
-    font-family: 'Anton', sans-serif;
-  color: blue;
+  font-family: 'Lexend Deca', sans-serif;
+  color: gray;
+  margin:30px;
+  
+
 }
 p {
   color: red;
@@ -14,9 +19,59 @@ img {
   width: 200px;
 }
 .social-link img { 
-    margin: 5px;
-    max-width: 50px;
+    margin: 10px;
+    max-width: 100px;
+    
 }
 .name {
-    color:magenta;
+    color:white;
+}
+h2 {
+  margin:30px;
+
+
+}
+h4{
+  color:rgb(219, 55, 82);
+}
+.top-buffer { margin-top:50px; }
+button{
+  background-color:rgb(129, 116, 116);
+  
+  
+}
+.top-buffer-2 {
+  margin-top:50px;
+  background-color:rgb(33,33,44);
+}
+
+button:hover {
+  background-color: rgb(34, 31, 31);
+}
+div.center {
+  margin: 0 auto;
+  width: 80em;
+  }
+
+h5{
+  font-family: 'Lexend Deca', sans-serif;
+  color:white
+}
+h6{
+  color:white
+}
+
+p2{
+  margin:10px;
+  color:white
+  
+}
+h7{
+  color:rgb(219, 55, 82);
+}
+h8{
+  color:orange
+}
+h9{
+  color:white
 }
