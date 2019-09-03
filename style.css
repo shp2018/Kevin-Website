@@ -1,15 +1,22 @@
 body {
-    font-family: 'Livvic', sans-serif;
-    background-color: powderblue;
-    text-align: center;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
-  img{
-      width:200px;
-  }
-  
+
+  background-color: powderblue;
+  text-align: center;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+  color: blue;
+}
+p {
+  color: red;
+}
+img {
+  width: 200px;
+}
+.social-link img { 
+    margin: 5px;
+    max-width: 50px;
+}
+.name {
+    color:magenta;
+}
