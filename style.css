@@ -1,16 +1,12 @@
 body {
-
-  background-color:rgb(86, 91, 92);
+  background-color: rgb(86, 91, 92);
   text-align: center;
-  font-family: 'Lexend Deca', sans-serif;
-  
+  font-family: "Lexend Deca", sans-serif;
 }
 h1 {
-  font-family: 'Lexend Deca', sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   color: gray;
-  margin:30px;
-  
-
+  margin: 30px;
 }
 p {
   color: red;
@@ -18,81 +14,78 @@ p {
 img {
   width: 200px;
 }
-.social-link img { 
-    margin: 10px;
-    max-width: 100px;
-    
+.social-link img {
+  margin: 10px;
+  max-width: 100px;
 }
 .name {
-    color:white;
+  color: white;
 }
 h2 {
-  margin:30px;
-
-
+  margin: 30px;
 }
-h4{
-  color:rgb(219, 55, 82);
+h4 {
+  color: rgb(219, 55, 82);
 }
-.top-buffer { margin-top:50px; }
-button{
-  background-color:rgb(129, 116, 116);
-  
-  
+.top-buffer {
+  margin-top: 50px;
+}
+button {
+  background-color: rgb(129, 116, 116);
 }
 .top-buffer-2 {
-  margin-top:50px;
-  background-color:rgb(33,33,44);
+  margin-top: 50px;
+  background-color: rgb(33, 33, 44);
 }
 
 button:hover {
   background-color: rgb(34, 31, 31);
 }
 div.center {
+  text-align: center;
   margin: 0 auto;
-  width: 80em;
-  }
-
-h5{
-  font-family: 'Lexend Deca', sans-serif;
-  color:white
-}
-h6{
-  color:white
 }
 
-p2{
-  margin:10px;
-  color:white
-  
+h5 {
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
 }
-h7{
-  color:rgb(219, 55, 82);
+h6 {
+  color: white;
 }
-h8{
-  color:orange
+
+p2 {
+  margin: 10px;
+  color: white;
 }
-h9{
-  color:white
+h7 {
+  font-size: 60px;
+  color: rgb(219, 55, 82);
 }
-.kevin{
-  font-size:70px;
+h8 {
+  color: orange;
 }
-.park{
-  font-size:60px;
+h9 {
+  color: white;
 }
-.description{
-  font-size:30px;
+.kevin {
+  font-size: 70px;
 }
-.colour{
-  background-color:rgb(33,33,44);
+.park {
+  font-size: 60px;
 }
-.highschool{
-  font-size:15px;
+.description {
+  font-size: 30px;
 }
-.style{
-  font-size:70
+.colour {
+  background-color: rgb(33, 33, 44);
 }
-.black{
-  background-color:black
+.highschool {
+  font-size: 15px;
+}
+.style {
+  font-size: 70;
+}
+.black {
+  background-color: black;
 }
